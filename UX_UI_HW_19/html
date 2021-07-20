@@ -1,0 +1,142 @@
+<!DOCTYPE html>>
+<html lang="en">
+<head>
+  <title>link javascript to HTML</title>
+  <script src = "index.js"></script>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/style.css"/>
+
+  <header>
+  <div class="header">
+    <ul>
+      <li>ABOUT</li>
+      <li>UX/UI SKILLS & WORK</li>
+      <li>CONTACT</li>
+    </ul>
+      <img src="Logo.png" alt="Logo"style="width:250px;height:300px;">
+    </div>
+    </header>
+  </head>
+  
+  
+    <body>
+      <h1>UX/UI SKILLS</h1>
+    <section>
+    <p> As we move further into a digital age, we need to consider how good design 
+        can be longer lasting. Good design can be acheived through simple design. 
+        it concentrates on the essential aspects of designer work. A good designer 
+        doesn’t know everything, a good designer is forever learning and taking 
+        feedback on to make improvements in their work.  
+    </p>
+
+    <h1>Tools</h1>
+    <div class="tools">
+
+    <img src= "ai.png" alt="ai" style ="width:56px; height:56px;">
+
+    <img src= "ps.png" alt="ps" style ="width:56px; height:56px;">
+
+    <img src= "xd.png" alt="xd" style ="width:56px; height:56px;"> 
+
+    <img src= "vs.png" alt="vs" style ="width:56px; height:56px;">
+      
+    <img src= "figma.png" alt="figma" style ="width:56px; height:56px;">
+    
+    <img src= "invision.png" alt="invision" style ="width:56px; height:56px;">
+      
+    <img src= "miro.png" alt="miro" style ="width:56px; height:56px;">
+    
+    <img src= "office.png" alt="office" style ="width:56px; height:56px;">
+      
+    <img src= "sketch.png" alt="sketch" style ="width:56px; height:56px;">
+      
+    </div>
+
+    <div class="user research text">
+      <h1>User Research</h1>
+      <p> A strong user research background stemming from my years of studying 
+        Psychology. During the bootcamp I was able to capture users, motivations 
+        and needs through observation of how the users behave online and compile 
+        the feedback provided to make positive changes. 
+      </p>
+    </div>
+    <div class= "user">
+      <img src= "user.png" alt="RS" style="width:550px; height:420px;">
+      </div>
+
+    <div class="Brainstorm text">
+    <h1>Ideation & Brainstorming</h1>
+      <p>Thinking outside the box to have a competitive edge and what current 
+        competitors already do well. A small and simple idea can often be the 
+        most effective idea to implement into future designs. 
+      </p>
+    </div>
+    <div class = "Brainstorm">
+      <img src="brainstorm.png" alt="BS" style="width:550px; height:420px;">
+      </div>
+
+      <div class="Usability Testing text">
+      <h1>Usability Testing</h1>
+        <p>The ability to maximise results during testing environments through 
+          tailoring questions to best understand users needs and pain points. 
+          Identifying whether features that were going to be implemented would 
+          be something users would use. 
+        </p>
+      </div>
+      <div class = "Testing">
+        <img src="testing.png" alt="test" style="width:550px; height:420px;">
+        </div>
+    </section>  
+
+    <div class="UX/UI">
+      <ul>
+        <h1>UX/UI Work</h1>
+        <div class ="ATO">
+        <img src="ATO.png" alt="ATO" style="width:800px;height:400px;"> 
+      </div>  
+      <div class="ATO text">
+        <h1>ATO</h1>
+        <p>ATO responsive web redesign focused on a more modern and user friendly Government agency redesign. 
+          <img src="Button.png" alt="Button" style="width:96px; height:40px;">
+        </p>
+        </div>
+      </img>
+      <div class ="Blue">
+      <img src="Blue.png" alt="BC" style="width:800px;height:400px;">
+      </div>
+      <div class="Blue text">
+        <h1>Blue Cross Animal Shelter</h1>
+        <p>The responsive web redesign for Blue Cross Animal Shelter assists users to adopt animals in a more streamlined process. 
+          Providing a questionnaire, users have a more refined search result when planning to adopt an animal.
+          <img src="Button.png" alt="Button" style="width:96px; height:40px;">
+        </p>
+        </div>
+      </img>       
+      <div class ="Foodlink">
+      <img src="Foodlink.png" alt="FL" style="width:200px;height:350px;">
+    </div> 
+    <div class="FoodLink">
+    <h1>FoodLink</h1>
+    <p>Foodlink was designed to connect cafes and restaurants with members of their local communities to ensure the meaningful redistribution of food that would otherwise be left to waste.
+    <img src="Button.png" alt="Button" style="width:96px; height:40px;"> 
+  </p>
+</div>
+</img>
+</ul>
+</body>
+<div>
+  <footer>
+    <div class="copyright">
+    <p>Troy Berman 2021®</p>
+      </div>
+
+  <div class="Lin">
+  <div class="ig">
+<img src="Lin.png" alt="linkedin" style="width: 38px; height:38px;">
+  <img src="ig.png" alt="Instagram" style="width: 38px; height:38px;">
+  </div>
+  </div>
+</footer>
